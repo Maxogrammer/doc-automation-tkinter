@@ -1,0 +1,11 @@
+{
+    "patterns_folder": "Шаблоны/",
+    "color_to_replace": [
+        0,
+        176,
+        80
+    ],
+    "save_on_close": true,
+    "bg_color": "#E5E5E5",
+    "auditors_data": "Аудиторы.csv"
+}
